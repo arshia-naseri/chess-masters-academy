@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/chess-masters-academy/static/js/main.b1db8300.js",
+    "index.html": "/chess-masters-academy/index.html",
+    "main.b1db8300.js.map": "/chess-masters-academy/static/js/main.b1db8300.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b1db8300.js"
+  ]
+}
