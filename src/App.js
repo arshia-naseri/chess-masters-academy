@@ -1,4 +1,5 @@
 import { useEffect, useRef } from "react";
+import contact from "./Alireza-Pakmehr.vcf";
 
 function App() {
   const btnLink = useRef();
@@ -13,7 +14,11 @@ function App() {
   }, []);
   return (
     <>
-      <a ref={btnLink} href="./Alireza Pakmehr.vcf" download>
+      <a
+        ref={btnLink}
+        href={contact}
+        download="Chess Masters Academy-Alireza Pakmehr"
+      >
         Click to download to contact
       </a>
     </>
