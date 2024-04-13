@@ -1,10 +1,11 @@
 {
   "files": {
-    "main.js": "/chess-masters-academy/static/js/main.b1db8300.js",
+    "main.js": "/chess-masters-academy/static/js/main.773476e2.js",
+    "static/media/Alireza-Pakmehr.vcf": "/chess-masters-academy/static/media/Alireza-Pakmehr.8ae8a68d64a5adcad8f7.vcf",
     "index.html": "/chess-masters-academy/index.html",
-    "main.b1db8300.js.map": "/chess-masters-academy/static/js/main.b1db8300.js.map"
+    "main.773476e2.js.map": "/chess-masters-academy/static/js/main.773476e2.js.map"
   },
   "entrypoints": [
-    "static/js/main.b1db8300.js"
+    "static/js/main.773476e2.js"
   ]
 }
